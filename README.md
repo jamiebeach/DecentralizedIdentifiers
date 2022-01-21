@@ -6,7 +6,7 @@ Articles and links about decentralized identifiers and soverign identity
 - globally unique, resolvable with high availability, and cryptographically verifiable.
 
 ## What is Self-Soverign Id?
-- self-owned credentials
+- self-owned credentials : “Login with Google” must become “Login with my own, revokable, identity” 
 - data and keys stored in wallet and share only what is needed with service providers
 - Possibly use zk-proofs to do KYC without sharing any information
 - Reliance on blockchain and cryptographic proofs to keep PI data only within wallet
