@@ -2,8 +2,15 @@
 Articles and links about decentralized identifiers and soverign identity
 
 ## What is a DID?
-- Decentralized Identifier
-- globally unique, resolvable with high availability, and cryptographically verifiable.
+- Decentralized identifier
+- Like regular unique identifiers (address, email, username, social media, etc) but digital and decentralized.
+- Not issued and controlled by external entities. Self-soverign.
+- globally unique
+- resolvable with high availability
+- cryptographically verifiable
+- persistent without continued operation of any org.
+- Immune to issues of centralized and centrally stored identifiers (fraudulent replication, identity theft, revokation, outages)
+- Use Cases: https://www.w3.org/TR/did-use-cases/
 
 ## What is Self-Soverign Id?
 - self-owned credentials : “Login with Google” must become “Login with my own, revokable, identity” 
@@ -12,7 +19,7 @@ Articles and links about decentralized identifiers and soverign identity
 - Reliance on blockchain and cryptographic proofs to keep PI data only within wallet
 
 
-## Self-Soverign Identity Providers
+## Self-Soverign Identity Solutions
 - https://liquidavatar.com/
 - https://tykn.tech/web-wallet/
 - https://www.civic.com/solutions/verified-by-civic-pass/
