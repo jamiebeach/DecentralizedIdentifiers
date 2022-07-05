@@ -19,7 +19,7 @@ Articles and links about decentralized identifiers and soverign identity
 - Reliance on blockchain and cryptographic proofs to keep PI data only within wallet
 
 
-## Self-Soverign Identity Solutions
+## Decentralized Identifier Solutions
 - https://nft3.com/
 - https://www.kilt.io/
 - https://www.disco.xyz/
