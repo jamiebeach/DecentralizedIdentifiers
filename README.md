@@ -20,6 +20,11 @@ Articles and links about decentralized identifiers and soverign identity
 
 
 ## Self-Soverign Identity Solutions
+- https://nft3.com/
+- https://www.kilt.io/
+- https://www.disco.xyz/
+- https://www.authenticidlabs.xyz/
+- https://magic.link/
 - https://liquidavatar.com/
 - https://tykn.tech/web-wallet/
 - https://www.civic.com/solutions/verified-by-civic-pass/
