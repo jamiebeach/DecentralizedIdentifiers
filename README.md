@@ -29,6 +29,7 @@ Articles and links about decentralized identifiers and soverign identity
 - [CivicID](https://www.civic.com/)
 - [Kilt](https://www.kilt.io/)
 - [Privado](https://www.privado.id/)
+- [web5](https://developer.tbd.website/projects/web5/)
 
 ## DID Specs
 - [Microstrategy BTC based DID specs](https://github.com/MicroStrategy/did-btc-spec)
@@ -41,3 +42,4 @@ Articles and links about decentralized identifiers and soverign identity
 - https://github.com/Yoshinori-Koide-PRO/indy-ssivc-tutorial
 - https://blog.solana.id/full-analysis-of-the-identity-reputation-landscape-7d66e60eff1c
 - https://github.com/animo/awesome-self-sovereign-identity
+- https://sovrin.org/faq/what-is-self-sovereign-identity/
